@@ -1,0 +1,35 @@
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_3", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "no"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "negative"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_3", "question": "What are the action units?", "answer": "lip corner puller, lip corner depressor"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "no"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The eye blinks."}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_3", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_4", "question": "Is the action unit lip corner puller shown on the face?", "answer": "yes"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The person shows no significant facial movement."}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_2", "question": "What is the fine-grained expression class?", "answer": "surprise"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_3", "question": "What are the action units?", "answer": "lip corner puller, lip corner depressor"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_4", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "yes"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "no brow lowerer, no lid tightener, no lip corner puller"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_2", "question": "What is the fine-grained expression class?", "answer": "surprise"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_3", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "yes"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "no brow lowerer, no lid tightener, no lip corner puller"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_3", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_4", "question": "Is the action unit lid tightener shown on the face?", "answer": "yes"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression displayed is disgust. This is indicated by the wrinkling of both the left and right noses, as well as the slight raising of the left brow. These movements are characteristic of the disgust facial expression."}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_3", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_4", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "yes"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression displayed is disgust. This is indicated by the following observations:\n\n1. **Left Nose Slightly Wrinkled**: When someone experiences disgust, their nose often wrinkles as a reflexive response to the unpleasantness of the stimulus.\n2. **Left Brow Slightly Raised**: Raising the brow can be associated"}

@@ -1,0 +1,35 @@
+{"video_id": "samm_test_SAMM-1_1", "video": "SAMM-1", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-1_2", "video": "SAMM-1", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\ndisgust"}
+{"video_id": "samm_test_SAMM-1_3", "video": "SAMM-1", "question": "What is the action unit?", "answer": "<think>\n\n</think>\n\nupper lip raiser"}
+{"video_id": "samm_test_SAMM-1_4", "video": "SAMM-1", "question": "Is the action unit cheek raiser shown on the face?", "answer": "<think>\n\n</think>\n\nno"}
+{"video_id": "samm_test_SAMM-1_5", "video": "SAMM-1", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "<think>\n\n</think>\n\nThis is a micro-expression of sadness."}
+{"video_id": "samm_test_SAMM-2_1", "video": "SAMM-2", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-2_2", "video": "SAMM-2", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\nsurprise"}
+{"video_id": "samm_test_SAMM-2_3", "video": "SAMM-2", "question": "What are the action units?", "answer": "<think>\n\n</think>\n\neye closure"}
+{"video_id": "samm_test_SAMM-2_4", "video": "SAMM-2", "question": "Is the action unit cheek raiser shown on the face?", "answer": "<think>\n\n</think>\n\nno"}
+{"video_id": "samm_test_SAMM-2_5", "video": "SAMM-2", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "<think>\n\n</think>\n\nno"}
+{"video_id": "samm_test_SAMM-3_1", "video": "SAMM-3", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-3_2", "video": "SAMM-3", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\nanger"}
+{"video_id": "samm_test_SAMM-3_3", "video": "SAMM-3", "question": "What is the action unit?", "answer": "<think>\n\n</think>\n\nlid tightener"}
+{"video_id": "samm_test_SAMM-3_4", "video": "SAMM-3", "question": "Is the action unit lip corner puller shown on the face?", "answer": "<think>\n\n</think>\n\nyes"}
+{"video_id": "samm_test_SAMM-3_5", "video": "SAMM-3", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "<think>\n\n</think>\n\nThis is a complex micro-expression, likely conveying intense sadness or despair, with possible undertones of fear or anger. The eyes are the most telling feature: the purple glow suggests either digital enhancement or a reflection, but the gaze is fixed and downward, indicating withdrawal or emotional overwhelm. The mouth is slightly downturned with tension, and the brow is furrowed, which together form a classic expression of sorrow or anguish. The overall posture and facial tension suggest a moment of profound emotional distress or internal conflict."}
+{"video_id": "samm_test_SAMM-4_1", "video": "SAMM-4", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-4_2", "video": "SAMM-4", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\nsurprise"}
+{"video_id": "samm_test_SAMM-4_3", "video": "SAMM-4", "question": "What are the action units?", "answer": "<think>\n\n</think>\n\nbrow lowerer, lip corner puller, lip stretcher"}
+{"video_id": "samm_test_SAMM-4_4", "video": "SAMM-4", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "<think>\n\n</think>\n\nyes"}
+{"video_id": "samm_test_SAMM-4_5", "video": "SAMM-4", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "<think>\n\n</think>\n\nno"}
+{"video_id": "samm_test_SAMM-5_1", "video": "SAMM-5", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-5_2", "video": "SAMM-5", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\nanger"}
+{"video_id": "samm_test_SAMM-5_3", "video": "SAMM-5", "question": "What is the action unit?", "answer": "<think>\n\n</think>\n\nbrow lowerer"}
+{"video_id": "samm_test_SAMM-5_4", "video": "SAMM-5", "question": "Is the action unit cheek raiser shown on the face?", "answer": "<think>\n\n</think>\n\nno"}
+{"video_id": "samm_test_SAMM-5_5", "video": "SAMM-5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "<think>\n\n</think>\n\nno"}
+{"video_id": "samm_test_SAMM-6_1", "video": "SAMM-6", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-6_2", "video": "SAMM-6", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\nanger"}
+{"video_id": "samm_test_SAMM-6_3", "video": "SAMM-6", "question": "What is the action unit?", "answer": "<think>\n\n</think>\n\nlid tightener"}
+{"video_id": "samm_test_SAMM-6_4", "video": "SAMM-6", "question": "Is the action unit lid tightener shown on the face?", "answer": "<think>\n\n</think>\n\nyes"}
+{"video_id": "samm_test_SAMM-6_5", "video": "SAMM-6", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "<think>\n\n</think>\n\nThis is a neutral expression with no clear micro-expression."}
+{"video_id": "samm_test_SAMM-7_1", "video": "SAMM-7", "question": "What is the coarse expression class?", "answer": "<think>\n\n</think>\n\nnegative"}
+{"video_id": "samm_test_SAMM-7_2", "video": "SAMM-7", "question": "What is the fine-grained expression class?", "answer": "<think>\n\n</think>\n\nanger"}
+{"video_id": "samm_test_SAMM-7_3", "video": "SAMM-7", "question": "What is the action unit?", "answer": "<think>\n\n</think>\n\nbrow lowerer"}
+{"video_id": "samm_test_SAMM-7_4", "video": "SAMM-7", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "<think>\n\n</think>\n\nyes"}
+{"video_id": "samm_test_SAMM-7_5", "video": "SAMM-7", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "<think>\n\n</think>\n\nThe image shows a person with a neutral facial expression, but there are subtle indicators of a micro-expression. The eyes are slightly narrowed, and the eyebrows are slightly lowered, which may suggest a brief moment of sadness or concern. The mouth is closed with a slight downturn, reinforcing the impression of sadness or disappointment. The overall expression appears to be fleeting and involuntary, consistent with a micro-expression."}

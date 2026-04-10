@@ -1,0 +1,85 @@
+{"video": "CAS-1", "video_id": "casme3_test_CAS-1_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-1", "video_id": "casme3_test_CAS-1_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "CAS-1", "video_id": "casme3_test_CAS-1_3", "question": "What is the action unit?", "answer": "lid tightener"}
+{"video": "CAS-1", "video_id": "casme3_test_CAS-1_4", "question": "Is the action unit lip corner puller shown on the face?", "answer": "no"}
+{"video": "CAS-1", "video_id": "casme3_test_CAS-1_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown in the image is a manifestation of fear. The eyebrows are raised, the eyes are wide open, and the mouth is slightly open, revealing the teeth. These are classic signs of fear."}
+{"video": "CAS-2", "video_id": "casme3_test_CAS-2_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-2", "video_id": "casme3_test_CAS-2_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "CAS-2", "video_id": "casme3_test_CAS-2_3", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video": "CAS-2", "video_id": "casme3_test_CAS-2_4", "question": "Is the action unit inner brow raiser shown on the face?", "answer": "yes"}
+{"video": "CAS-2", "video_id": "casme3_test_CAS-2_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression displayed is sadness. The person's eyes are tightly closed, and the nose is wrinkled, which are typical indicators of sadness. The slight upward movement of the right eyebrow further emphasizes the emotional state of sorrow."}
+{"video": "CAS-3", "video_id": "casme3_test_CAS-3_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-3", "video_id": "casme3_test_CAS-3_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "CAS-3", "video_id": "casme3_test_CAS-3_3", "question": "What are the action units?", "answer": "lip corner puller, chin raiser"}
+{"video": "CAS-3", "video_id": "casme3_test_CAS-3_4", "question": "Is the action unit brow lowerer shown on the face?", "answer": "no"}
+{"video": "CAS-3", "video_id": "casme3_test_CAS-3_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown is sadness. The eyebrows are lowered and drawn together, the eyes are tightly closed, and the corners of the mouth are pulled downward."}
+{"video": "CAS-4", "video_id": "casme3_test_CAS-4_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-4", "video_id": "casme3_test_CAS-4_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "CAS-4", "video_id": "casme3_test_CAS-4_3", "question": "What are the action units?", "answer": "inner brow raiser, outer brow raiser, lid tightener"}
+{"video": "CAS-4", "video_id": "casme3_test_CAS-4_4", "question": "Is the action unit brow lowerer shown on the face?", "answer": "yes"}
+{"video": "CAS-4", "video_id": "casme3_test_CAS-4_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression observed in the clip primarily manifests as a subtle display of anger or contempt. The left side of the face, particularly the nose and eye area, exhibits slight wrinkling and closure, while the right brow is slightly raised, indicating a complex emotional state. This asymmetry suggests an attempt to"}
+{"video": "CAS-5", "video_id": "casme3_test_CAS-5_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-5", "video_id": "casme3_test_CAS-5_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "CAS-5", "video_id": "casme3_test_CAS-5_3", "question": "What are the action units?", "answer": "chin raiser, lip corner puller, lip stretcher"}
+{"video": "CAS-5", "video_id": "casme3_test_CAS-5_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "yes"}
+{"video": "CAS-5", "video_id": "casme3_test_CAS-5_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression observed is a smile. The right side of the face shows a strong tensing of the chin, indicating a powerful attempt to suppress or control the expression. Meanwhile, the left side of the face displays a moderate tensing of the chin, suggesting a less intense but still present effort to"}
+{"video": "CAS-6", "video_id": "casme3_test_CAS-6_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-6", "video_id": "casme3_test_CAS-6_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "CAS-6", "video_id": "casme3_test_CAS-6_3", "question": "What is the action unit?", "answer": "nose wrinkler"}
+{"video": "CAS-6", "video_id": "casme3_test_CAS-6_4", "question": "Is the action unit lip corner depressor shown on the face?", "answer": "yes"}
+{"video": "CAS-6", "video_id": "casme3_test_CAS-6_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown in the image is a sign of disgust. The slight raising of the left brow and the wrinkling of both nostrils are key indicators of this emotion. This micro-expression may be triggered by encountering something unpleasant or repulsive, such as a foul smell, an offensive sight, or"}
+{"video": "CAS-7", "video_id": "casme3_test_CAS-7_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-7", "video_id": "casme3_test_CAS-7_2", "question": "What is the fine-grained expression class?", "answer": "surprise"}
+{"video": "CAS-7", "video_id": "casme3_test_CAS-7_3", "question": "What is the action unit?", "answer": "lid tightener"}
+{"video": "CAS-7", "video_id": "casme3_test_CAS-7_4", "question": "Is the action unit brow lowerer shown on the face?", "answer": "yes"}
+{"video": "CAS-7", "video_id": "casme3_test_CAS-7_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown in the image reveals a subtle but clear sign of disgust. The most prominent feature is the wrinkling of the nose, accompanied by a slight tightening of the lips, which are pressed together. This expression is typically a spontaneous, involuntary reaction to something unpleasant or offensive, such as a"}
+{"video": "CAS-8", "video_id": "casme3_test_CAS-8_1", "question": "What is the coarse expression class?", "answer": "surprise"}
+{"video": "CAS-8", "video_id": "casme3_test_CAS-8_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "CAS-8", "video_id": "casme3_test_CAS-8_3", "question": "What are the action units?", "answer": "brow lowerer, lid tightener"}
+{"video": "CAS-8", "video_id": "casme3_test_CAS-8_4", "question": "Is the action unit dimpler shown on the face?", "answer": "no"}
+{"video": "CAS-8", "video_id": "casme3_test_CAS-8_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression observed in this clip is surprise. The slight elevation of both eyebrows, accompanied by the subtle widening of the eyes, are classic indicators of surprise. This micro-expression typically arises in response to unexpected or sudden stimuli, reflecting a momentary state of astonishment or shock."}
+{"video": "CAS-9", "video_id": "casme3_test_CAS-9_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-9", "video_id": "casme3_test_CAS-9_2", "question": "What is the fine-grained expression class?", "answer": "surprise"}
+{"video": "CAS-9", "video_id": "casme3_test_CAS-9_3", "question": "What are the action units?", "answer": "brow lowerer, lid tightener"}
+{"video": "CAS-9", "video_id": "casme3_test_CAS-9_4", "question": "Is the action unit outer brow raiser shown on the face?", "answer": "yes"}
+{"video": "CAS-9", "video_id": "casme3_test_CAS-9_5", "question": "Provide a comprehensive analysis of the facial micro-expression shown in this clip.", "answer": "The person in the image is experiencing a subtle emotional fluctuation, with their eyebrows slightly raised, which may indicate a hint of surprise or curiosity."}
+{"video": "CAS-10", "video_id": "casme3_test_CAS-10_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-10", "video_id": "casme3_test_CAS-10_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "CAS-10", "video_id": "casme3_test_CAS-10_3", "question": "What is the action unit?", "answer": "lid tightener"}
+{"video": "CAS-10", "video_id": "casme3_test_CAS-10_4", "question": "Is the action unit upper lid raiser shown on the face?", "answer": "no"}
+{"video": "CAS-10", "video_id": "casme3_test_CAS-10_5", "question": "Provide a comprehensive analysis of the facial micro-expression shown in this clip.", "answer": "The micro-expression displayed is sadness. The left side of the face, particularly around the eye area, shows a subtle contraction, indicating an internal emotional response. This micro-expression may be triggered by external stimuli or internal thoughts, revealing a fleeting moment of sorrow or melancholy."}
+{"video": "CAS-11", "video_id": "casme3_test_CAS-11_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-11", "video_id": "casme3_test_CAS-11_2", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video": "CAS-11", "video_id": "casme3_test_CAS-11_3", "question": "What is the action unit?", "answer": "dimpler"}
+{"video": "CAS-11", "video_id": "casme3_test_CAS-11_4", "question": "Is the action unit inner brow raiser shown on the face?", "answer": "yes"}
+{"video": "CAS-11", "video_id": "casme3_test_CAS-11_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression displayed is sadness. The slight wrinkling of the left nose, the downward turn of the left mouth corner, and the slight closure of the left eye collectively form a subtle expression of sorrow."}
+{"video": "CAS-12", "video_id": "casme3_test_CAS-12_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-12", "video_id": "casme3_test_CAS-12_2", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video": "CAS-12", "video_id": "casme3_test_CAS-12_3", "question": "What are the action units?", "answer": "lip corner puller, lip pressor, chin raiser"}
+{"video": "CAS-12", "video_id": "casme3_test_CAS-12_4", "question": "Is the action unit lower lip depressor shown on the face?", "answer": "yes"}
+{"video": "CAS-12", "video_id": "casme3_test_CAS-12_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression observed is sadness. The slight downturn of the mouth corners and the wrinkling of the nose are typical indicators of sadness, suggesting the person may be experiencing inner sorrow or disappointment."}
+{"video": "CAS-13", "video_id": "casme3_test_CAS-13_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-13", "video_id": "casme3_test_CAS-13_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "CAS-13", "video_id": "casme3_test_CAS-13_3", "question": "What are the action units?", "answer": "brow lowerer, lid tightener"}
+{"video": "CAS-13", "video_id": "casme3_test_CAS-13_4", "question": "Is the action unit upper lid raiser shown on the face?", "answer": "yes"}
+{"video": "CAS-13", "video_id": "casme3_test_CAS-13_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The person in the image briefly showed a micro-expression of disgust. The eyebrows are slightly raised, the nose wrinkles, and the lips are tightly closed, indicating a momentary reaction of aversion or displeasure."}
+{"video": "CAS-14", "video_id": "casme3_test_CAS-14_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-14", "video_id": "casme3_test_CAS-14_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "CAS-14", "video_id": "casme3_test_CAS-14_3", "question": "What is the action unit?", "answer": "upper lid raiser"}
+{"video": "CAS-14", "video_id": "casme3_test_CAS-14_4", "question": "Is the action unit upper lid raiser shown on the face?", "answer": "no"}
+{"video": "CAS-14", "video_id": "casme3_test_CAS-14_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown in the image reveals a complex emotional state, primarily characterized by surprise mixed with discomfort or distress. The left eyebrow being slightly raised indicates surprise or alertness, while the slight wrinkling of the left nose and the partially closed right eye suggest a subtle aversion or unease. This"}
+{"video": "CAS-15", "video_id": "casme3_test_CAS-15_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-15", "video_id": "casme3_test_CAS-15_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "CAS-15", "video_id": "casme3_test_CAS-15_3", "question": "What are the action units?", "answer": "upper lip raiser, chin raiser"}
+{"video": "CAS-15", "video_id": "casme3_test_CAS-15_4", "question": "Is the action unit lip tightener shown on the face?", "answer": "no"}
+{"video": "CAS-15", "video_id": "casme3_test_CAS-15_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression displayed is sadness. The corners of the mouth are slightly pulled down, and the eyebrows are slightly lowered, revealing a subtle expression of sorrow."}
+{"video": "CAS-16", "video_id": "casme3_test_CAS-16_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-16", "video_id": "casme3_test_CAS-16_2", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video": "CAS-16", "video_id": "casme3_test_CAS-16_3", "question": "What are the action units?", "answer": "lip corner depressor, lip corner raiser"}
+{"video": "CAS-16", "video_id": "casme3_test_CAS-16_4", "question": "Is the action unit lip stretcher shown on the face?", "answer": "no"}
+{"video": "CAS-16", "video_id": "casme3_test_CAS-16_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression observed is sadness. The eyebrows are slightly lowered, the corners of the mouth are slightly pulled down, and the eyes are slightly narrowed, collectively forming a sad expression."}
+{"video": "CAS-17", "video_id": "casme3_test_CAS-17_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "CAS-17", "video_id": "casme3_test_CAS-17_2", "question": "What is the fine-grained expression class?", "answer": "contempt"}
+{"video": "CAS-17", "video_id": "casme3_test_CAS-17_3", "question": "What are the action units?", "answer": "lip corner puller, lip corner depressor"}
+{"video": "CAS-17", "video_id": "casme3_test_CAS-17_4", "question": "Is the action unit dimpler shown on the face?", "answer": "no"}
+{"video": "CAS-17", "video_id": "casme3_test_CAS-17_5", "question": "Provide a comprehensive analysis of the facial micro-expression shown in this clip.", "answer": "The person in the image is suppressing disgust."}

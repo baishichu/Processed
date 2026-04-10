@@ -1,0 +1,1277 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit lip corner puller shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-1.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit inner brow raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-2.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit brow lowerer shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-3.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit brow lowerer shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-4.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit cheek raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-5.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit lip corner depressor shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-6.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit brow lowerer shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-7.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit dimpler shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-8.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit outer brow raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-9.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit upper lid raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-10.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit inner brow raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-11.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit lower lip depressor shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-12.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit upper lid raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-13.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit upper lid raiser shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-14.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit lip tightener shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-15.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit lip stretcher shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-16.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-17.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What is the fine-grained expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-17.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-17.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>Is the action unit dimpler shown on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-17.jpg"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image>What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?"
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ],
+    "images": [
+      "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/TV/CAS-17.jpg"
+    ]
+  }
+]

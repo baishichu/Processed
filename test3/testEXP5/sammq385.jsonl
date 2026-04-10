@@ -1,0 +1,35 @@
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_3", "question": "What is the action unit?", "answer": "inner brow raiser"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "no"}
+{"video": "SAMM-1", "video_id": "samm_test_SAMM-1_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown is surprise. The eyebrows are raised, and the nose wrinkles slightly, indicating a momentary shock or astonishment."}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_3", "question": "What are the action units?", "answer": "inner brow raiser, outer brow raiser"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "yes"}
+{"video": "SAMM-2", "video_id": "samm_test_SAMM-2_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression shows a fleeting moment of surprise or startle. The right eyebrow's slight raise indicates a sudden reaction to an unexpected stimulus, while the eyes' wide opening further emphasizes the shock or alertness. This brief expression captures an instantaneous emotional response, likely triggered by an unforeseen event or sudden"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_3", "question": "What is the action unit?", "answer": "lid tightener"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_4", "question": "Is the action unit lip corner puller shown on the face?", "answer": "no"}
+{"video": "SAMM-3", "video_id": "samm_test_SAMM-3_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The person in the image briefly shows a micro-expression of surprise. Their eyes widen slightly, and their eyebrows raise momentarily, indicating a sudden shock or astonishment."}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_3", "question": "What are the action units?", "answer": "lip corner puller, lip corner depressor"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_4", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "no"}
+{"video": "SAMM-4", "video_id": "samm_test_SAMM-4_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression shows a brief moment of surprise or shock, characterized by the eyes widening slightly and the eyebrows raising momentarily."}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_3", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_4", "question": "Is the action unit cheek raiser shown on the face?", "answer": "no"}
+{"video": "SAMM-5", "video_id": "samm_test_SAMM-5_5", "question": "Provide a detailed analysis of the micro-expression observed in this clip.", "answer": "The micro-expression observed in the video clip is a smile. The corners of the mouth are slightly lifted, and the cheeks are raised, indicating a subtle expression of happiness or amusement."}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_2", "question": "What is the fine-grained expression class?", "answer": "anger"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_3", "question": "What is the action unit?", "answer": "lid tightener"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_4", "question": "Is the action unit lid tightener shown on the face?", "answer": "no"}
+{"video": "SAMM-6", "video_id": "samm_test_SAMM-6_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown is sadness. The person's eyes are slightly narrowed, and their lips are pressed together, revealing a subtle downturn at the corners. These features collectively indicate an inner feeling of sorrow or disappointment."}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_2", "question": "What is the fine-grained expression class?", "answer": "happiness"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_3", "question": "What is the action unit?", "answer": "upper lid raiser"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_4", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "no"}
+{"video": "SAMM-7", "video_id": "samm_test_SAMM-7_5", "question": "Please analyse the micro-expression shown in this video in detail.", "answer": "The micro-expression shown is sadness. The upper eyelids of both eyes are slightly contracted, and the corners of the mouth are slightly downturned."}

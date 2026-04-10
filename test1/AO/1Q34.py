@@ -1,0 +1,88 @@
+# test three get Result
+import json
+from pyexpat.errors import messages
+from peft import PeftModel
+from transformers import Qwen3VLForConditionalGeneration, AutoTokenizer, AutoProcessor
+from qwen_vl_utils import process_vision_info
+import torch
+import os
+from PIL import Image
+
+base_model = Qwen3VLForConditionalGeneration.from_pretrained(
+    "/media/ph/29321BB58B527E5A/qwen/qwen3vl4",
+    dtype=torch.float16,
+    device_map="auto",
+    local_files_only=True
+)
+
+lora_path = "/media/ph/208B-304E/llamaF/LLaMA-Factory/saves/qwen3-4b/AOlora/sft"
+model = PeftModel.from_pretrained(base_model, lora_path)
+model.eval()
+# default processer
+processor = AutoProcessor.from_pretrained(
+    "/media/ph/29321BB58B527E5A/qwen/qwen3vl4")
+
+# Messages containing multiple images and a text query
+picdir = "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/test1/testdata"
+dir = "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/MEGC2026_ME_VQA_Test/me_vqa_casme3_v2_test_to_answer.jsonl"
+# dir = "/media/ph/208B-304E/projectVQA/MEGC2025VQA/Processed/MEGC2026_ME_VQA_Test/me_vqa_samm_v2_test_to_answer.jsonl"
+save = dir.split('/')[-1]
+jsonl_name = save.split('_')[2]
+save_name = jsonl_name + 'q34.jsonl'
+print(save_name)
+data = []
+
+with open(os.path.join(dir), 'r') as f:
+    for line in f:
+        item = json.loads(line.strip())
+        video_name = item["video"]
+        image_path = os.path.join(picdir, video_name, "apex.jpg")
+        item['imagea'] = image_path
+        image_path1 = os.path.join(picdir, video_name, "onset.jpg")
+        item['imageo'] = image_path1
+        data.append(item)
+print(data[1])
+result = []
+
+for item in data:
+    prompt = f"The first image is the onset frame of the micro-expression, and the second image is the apex frame. <image><image>Please answer the question:{item['question']}"
+
+    image1 = Image.open(item["imagea"]).convert("L")  # onset
+    image2 = Image.open(item["imageo"]).convert("L")  # apex
+    text = processor.apply_chat_template(
+        [{"role": "user", "content": [
+            {"type": "image"},
+            {"type": "image"},
+            {"type": "text", "text": item['question']}
+        ]}],
+        tokenize=False,
+        add_generation_prompt=True
+    )
+
+    inputs = processor(
+        text=[text],
+        images=[[image1, image2]],
+        return_tensors="pt",
+        padding=True,
+    ).to("cuda")
+
+    generated_ids = model.generate(**inputs, max_new_tokens=128)
+    generated_ids_trimmed = [
+        out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+    ]
+    output_text = processor.batch_decode(
+        generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
+    )
+    item["answer"] = output_text[0]
+
+    del item["imagea"]
+    del item["imageo"]
+
+    print(json.dumps(item, ensure_ascii=False))
+    result.append(item)
+    # break
+
+with open(save_name, 'w', encoding="utf-8") as f:
+    for item in result:
+        json_line = json.dumps(item, ensure_ascii=False)
+        f.write(json_line + "\n")
